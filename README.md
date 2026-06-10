@@ -9,28 +9,28 @@ A collection of data visualization projects demonstrating the ability to transla
 * **Description:** An interactive dashboard analyzing sales trends to highlight top-performing regions, product categories, and seasonal shifts.
 * **Key Skills:** Trend analysis, interactive filtering, and business intelligence reporting.
 
-![Sales Dashboard](https://drive.google.com/file/d/1tqSH_odOw1tEjACwRJKRw-bH8-p3Wrck/view?usp=drive_link)
+![Sales Dashboard](https://drive.google.com/file/d/1tqSH_odOw1tEjACwRJKRw-bH8-p3Wrck/view?usp=sharing)
 
 ### 2. Revenue Data Visualization
 * **File:** [Revenue_data_visualization.twbx](Revenue_data_visualization.twbx)
 * **Description:** A financial visualization project focused on mapping out revenue streams, tracking KPIs, and identifying business growth opportunities.
 * **Key Skills:** Financial data representation, KPI tracking, and metric comparisons.
 
-![Revenue Dashboard](https://drive.google.com/file/d/1jDgNY_Xy_ntuPUBozjMdL7rwL6kg1euV/view?usp=drive_link)
+![Revenue Dashboard](https://drive.google.com/file/d/1jDgNY_Xy_ntuPUBozjMdL7rwL6kg1euV/view?usp=sharing)
 
 ### 3. Unemployment Data Visualization
 * **File:** [Unemployment_data_visualization.twbx](Unemployment_data_visualization.twbx)
 * **Description:** A macro-economic dashboard mapping out unemployment rates to uncover trends across different demographics or timelines.
 * **Key Skills:** Time-series analysis and geographical/demographic data mapping.
 
-![Unemployment Dashboard](https://drive.google.com/file/d/17M6tAk0aFGd3nV1O4qh2vHX3O_5ti_Oy/view?usp=drive_link)
+![Unemployment Dashboard](https://drive.google.com/file/d/17M6tAk0aFGd3nV1O4qh2vHX3O_5ti_Oy/view?usp=sharing)
 
 ### 4. Year-Wise Sales Distribution
 * **File:** [year_wise_sales_distribution.twbx](year_wise_sales_distribution.twbx)
 * **Description:** A time-series dashboard illustrating sales volume and distribution across multiple years, designed to quickly identify long-term business growth and historical trends.
 * **Key Skills:** Year-over-year (YoY) analysis, chronological data structuring, and trend visualizations.
 
-![Year-Wise Sales Dashboard](https://drive.google.com/file/d/12Im-NkLAuhU3CWqO8b-z03mFPXH1FMuY/view?usp=drive_link)
+![Year-Wise Sales Dashboard]((https://drive.google.com/file/d/12Im-NkLAuhU3CWqO8b-z03mFPXH1FMuY/view?usp=sharing))
 
 ---
 ## 🛠️ Tools & Technologies
